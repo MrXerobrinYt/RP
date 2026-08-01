@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [65,0],
+    "max_format": [213,0],
+    "description": "Server Resource Pack. (SRP)"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "moldomre"
+      }
+    ]
+  }
+}
